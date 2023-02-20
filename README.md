@@ -77,7 +77,6 @@ const MainWrapper = styled.div`
 ## 📝 components 파일 속 Global.tsx, Post.tsx 수정 및 작성
 ### ⚡ Global.tsx
 - `createGlobalStyle`을 import 한 후, `GlobalStyle` 변수에 값을 넣으면 전역 스타일링이 사용 가능하다.
-const GlobalStyle = createGlobalStyle`
 ```typescript
 import { createGlobalStyle } from "styled-components";
 
