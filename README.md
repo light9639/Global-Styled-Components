@@ -203,3 +203,6 @@ export default [
     }
 ];
 ```
+## 📎 출처
+- <a href="https://www.daleseo.com/styled-components-global-style/">Styled Components 전역 스타일링 (Global Style)</a>
+- <a href="https://velog.io/@neity16/React-styled-components">React - 스타일드 컴포넌트(styled-components)</a>
